@@ -168,11 +168,9 @@ export default class Home extends Component {
           <p>
             I cobbled this together from a wide variety of similar "starter" repositories. As I post this in June 2015,
             all of these libraries are right at the bleeding edge of web development. They may fall out of fashion as
-            quickly as they have come into it, but I personally believe that this stack is the future of web development
-            and will survive for several years. I'm building my new projects like this, and I recommend that you do,
+            quickly as they have come into it, but I personally believe that this stack is the future of web development and will survive for several years. I'm building my new projects like this, and I recommend that you do,
             too.
           </p>
-
           <p>Thanks for taking the time to check this out.</p>
 
           <p>– Erik Rasmussen</p>
